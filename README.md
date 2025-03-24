@@ -1,2 +1,2 @@
-# C-Must-Know
+# C++ Must-Know
 a constantly updated summary of C++ interview knowledge points
