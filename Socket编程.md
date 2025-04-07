@@ -18,7 +18,7 @@ Socket 编程是一种计算机网络通信技术，它允许不同设备或进�
 >
 > Server → Client: [SYN, ACK] Seq = Y, Ack = X + 1
 >
-> Server → Client: [SYN, ACK] Seq = Y, Ack = X + 1
+> Client → Server: [ACK] Seq = X + 1, Ack = Y + 1
 > 
 > 四次挥手？：
 >
